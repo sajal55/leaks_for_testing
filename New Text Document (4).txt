@@ -1,0 +1,7 @@
+s3Params: {
+          accessKeyId: 'AKIAT8IFIY7IJOET444G',
+          secretAccessKey: 'FELMEEY7Ke/fFoiuy9nXbHpgk+3JVHF46B3Fd5RT',
+          region: 'ap-south-1',
+          orgchartS3Bucket:'My-docs',
+          signatureVersion:'v4'
+        },
